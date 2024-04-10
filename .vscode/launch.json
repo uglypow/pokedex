@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Html Rendering",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\main.dart",
+            "args": ["--web-renderer","html"]
+        }
+    ]
+}
